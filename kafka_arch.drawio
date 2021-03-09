@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T13:07:11.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="QPeZoVmZsfoZ9UBJr7DF" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T13:07:57.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="-yiC2mzi3fDmNe9Dhcol" version="14.3.2" type="github">
   <diagram id="fw-UlmHIZEO9z2KH26Mo" name="第 1 页">
     <mxGraphModel dx="2860" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,6 +540,15 @@
         </mxCell>
         <mxCell id="Mm7q6FhFy1PGKrhhCFDG-104" value="Transaction&lt;br&gt;Coordinator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1090" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm7q6FhFy1PGKrhhCFDG-106" value="TS-TP1-Leader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm7q6FhFy1PGKrhhCFDG-107" value="TS-TP1-Leader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm7q6FhFy1PGKrhhCFDG-108" value="TS-TP1-Leader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
